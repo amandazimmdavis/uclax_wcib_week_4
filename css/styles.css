@@ -23,7 +23,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: url("../images/image.jpg");
+  background: url("../Images/image.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: local; }
